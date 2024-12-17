@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form{
+    padding: 50px;
+}
+
+#form-title{
+    font-size: 20px;
+    font-weight:bold;
+}
+
+#tell-us-more{
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 33px;
+}
+
+textarea{
+    padding: 6px 8px;
+    height: 20vh;
+    width: 50vw;
+}
+
+#media-attatchment{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+input{
+    height: 20px;
+    width: 20px;
+}
+
+.checkbox-label{
+    font-size: 14px;
+    color: #9d9488;
+}
+
+#radio-choices{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+#privacy-statement{
+    font-size: 10px;
+}
+
+a{
+    color: #3c98e1;
+    font-size: 10px;
+}
+
+#buttons{
+    padding-top: 20px;
+}
+
+button{
+    padding: 7px 16px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid;
+    font-weight: bold;
+}
+
+#submit{
+    background-color: #1b1d1e;
+    color: #beb9b0;
+    margin-right: 5px;
+}
+
+#cancel{
+    background-color: #0f1011;
+    color: #e2dfdb;
+}
